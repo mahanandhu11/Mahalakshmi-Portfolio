@@ -1,4 +1,4 @@
-* {
+ {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -24,7 +24,7 @@ body {
 }
 
 
-/* ================= NAVIGATION ================= */
+
 
 header {
     position: sticky;
@@ -74,7 +74,7 @@ header {
 }
 
 
-/* ================= COMMON SECTION ================= */
+
 
 section {
     max-width: 1150px;
@@ -98,7 +98,7 @@ section {
 }
 
 
-/* ================= HOME ================= */
+
 
 .home {
     max-width: none;
@@ -123,7 +123,7 @@ section {
 }
 
 
-/* ================= PROFILE CIRCLE ================= */
+
 
 .profile-circle {
     width: 125px;
@@ -173,7 +173,6 @@ section {
 }
 
 
-/* ================= HOME TEXT ================= */
 
 .hello {
     color: var(--cyan);
@@ -210,7 +209,7 @@ section {
 }
 
 
-/* ================= BUTTONS ================= */
+
 
 .home-buttons {
     margin-top: 30px;
@@ -252,7 +251,7 @@ section {
 }
 
 
-/* ================= QUICK INFO ================= */
+
 
 .quick-info {
     margin-top: 45px;
@@ -278,7 +277,7 @@ section {
 }
 
 
-/* ================= ABOUT ================= */
+
 
 .about-grid {
     display: grid;
@@ -339,7 +338,6 @@ section {
 }
 
 
-/* ================= EDUCATION ================= */
 
 .education-card {
     background: var(--card);
@@ -396,7 +394,7 @@ section {
 }
 
 
-/* ================= SKILLS ================= */
+
 
 .skills-container {
     display: grid;
@@ -451,7 +449,6 @@ section {
 }
 
 
-/* ================= PROJECTS ================= */
 
 .project-container {
     display: grid;
@@ -513,7 +510,7 @@ section {
 }
 
 
-/* ================= VIEW PROJECT BUTTON ================= */
+
 
 .project-btn {
     display: inline-block;
@@ -551,7 +548,6 @@ section {
 }
 
 
-/* ================= CAREER ================= */
 
 .career-box {
     background:
@@ -592,7 +588,7 @@ section {
 }
 
 
-/* ================= CONTACT ================= */
+
 
 .contact-box {
     background: var(--card);
@@ -637,7 +633,7 @@ section {
 }
 
 
-/* ================= LINKEDIN ================= */
+
 
 .linkedin-link {
     color: var(--cyan-light);
@@ -654,7 +650,7 @@ section {
 }
 
 
-/* ================= FOOTER ================= */
+
 
 footer {
     padding: 30px;
@@ -677,7 +673,7 @@ footer span {
 }
 
 
-/* ================= ANIMATION ================= */
+
 
 @keyframes float {
 
@@ -692,7 +688,7 @@ footer span {
 }
 
 
-/* ================= TABLET ================= */
+
 
 @media (max-width: 900px) {
 
@@ -716,7 +712,6 @@ footer span {
 }
 
 
-/* ================= MOBILE ================= */
 
 @media (max-width: 700px) {
 
@@ -790,7 +785,7 @@ footer span {
 }
 
 
-/* ================= SMALL MOBILE ================= */
+
 
 @media (max-width: 430px) {
 
